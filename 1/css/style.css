@@ -159,7 +159,7 @@ a:hover {
   transition: all 0.75s ease-in-out;
 }
 #menu {
-  background:#4b5156;
+  background: rgba(236, 209, 4, 0.7);
   position: absolute;
   top: 0%;
   padding: 0 64px;
@@ -719,7 +719,7 @@ span.susan-pic img {
 .price-block h3 {
     font-size:1.3em;
     color: #fff;
-    background:#4b5156;
+    background:#ecd104;
     padding: 0.5em 0em;
 }
 span.price-month {
@@ -729,7 +729,7 @@ span.price-month {
 .price-selet.pric-sclr1 a {
     font-size: 0.9em;
     color: #fff;
-    background:#4b5156;
+    background:#ecd104;
     padding:0.8em 1.5em;
     display:block;
     margin-top: 1em;
@@ -1677,7 +1677,7 @@ span.ftr-address-icons {
 .copy-rights {
     text-align: center;
     padding: 2em 0em;
-    background:#4b5156;
+    background:#ecd104;
 }
 .copy-rights-main p {
     font-size: 1em;

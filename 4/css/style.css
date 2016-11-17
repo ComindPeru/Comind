@@ -1,9 +1,3 @@
-/*--
-Author: W3layouts
-Author URL: http://w3layouts.com
-License: Creative Commons Attribution 3.0 Unported
-License URL: http://creativecommons.org/licenses/by/3.0/
---*/
 h4, h5, h6,
 h1, h2, h3 {margin: 0;}
 ul, ol {margin: 0;}
@@ -48,21 +42,21 @@ a:hover {
     padding: 1.3em 0em;
 }
 .banner-text {
-    text-align: center;
-    padding-top: 12em;
+    text-align: left;
+    padding-top: 13em;
 }
 .banner-text h1 {
-    font-size: 2.5em;
+    font-size: 3em;
     color: #fff;
     margin-bottom: 0.5em;
   font-family: 'Roboto Slab', serif;
 }
 .banner-text h5 {
-    font-size: 1.3em;
-    color: #fff;
+    font-size: 2em;
+    color: #d7d4d4;
 }
 .banner-text p {
-    font-size: 1em;
+    font-size: 2em;
     color: #fff;
     line-height: 1.8em;
     width: 64%;
@@ -165,7 +159,7 @@ a:hover {
   transition: all 0.75s ease-in-out;
 }
 #menu {
-  background:#6faf1e;
+  background:rgba(111, 175, 30, 0.65);
   position: absolute;
   top: 0%;
   padding: 0 64px;
@@ -1797,7 +1791,7 @@ span.history-icon {
 }
 @media(max-width:991px){
 .banner-text h1 {
-    font-size: 2.2em;
+    font-size: 2.8em;
 }
 .banner-text p {
     width: 100%;
@@ -1992,7 +1986,7 @@ span.devide-line {
 }
 @media(max-width:667px){
 .banner-text h1 {
-    font-size: 2em;
+    font-size: 3em;
 }
 .ih-item.square {
     width: 217px;
@@ -2018,7 +2012,7 @@ span.devide-line {
 }
 @media(max-width:640px){
 .banner-text h1 {
-    font-size: 1.8em;
+    font-size: 2.2em;
 }
 .banner-text {
     padding-top:5em;
@@ -2027,7 +2021,7 @@ span.devide-line {
     font-size: 0.95em;
 }
 .banner-text h5 {
-    font-size: 1.1em;
+    font-size: 1.4em;
 }
 .banner {
     min-height: 480px;
@@ -2203,7 +2197,7 @@ span.botted2 {
 }
 @media(max-width:568px){
 .banner-text h1 {
-    font-size: 1.7em;
+    font-size: 2em;
 }
 .search {
     width: 70%;
@@ -2238,16 +2232,16 @@ span.botted2 {
 }
 @media(max-width:480px){
 .banner-text h1 {
-    font-size: 1.4em;
+    font-size: 2em;
 }
 .banner-text h5 {
-    font-size: 0.9em;
+    font-size: 1em;
 }
 .banner-text p {
-    font-size: 0.9em;
+    font-size: 1em;
 }
 .banner-text {
-    padding-top: 3em;
+    padding-top: 3.5em;
 }
 .banner {
     min-height: 400px;
@@ -2465,10 +2459,10 @@ span.susan-pic {
 }
 @media(max-width:414px){
 .banner-text h1 {
-    font-size: 1.5em;
+    font-size: 1.9em;
 }
 .banner-text h5 {
-    font-size: 0.82em;
+    font-size: 1em;
     line-height: 1.8em;
 }
 .head-social-icns {
@@ -2573,7 +2567,7 @@ span.susan-pic {
     transform: translate(-15%, 0px);
 }
 .banner-text p {
-    font-size: 0.8em;
+    font-size: 0.9em;
 }
 .banner {
     min-height: 370px;
