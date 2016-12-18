@@ -361,7 +361,13 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			</div>
 			<div class="contact-bottom">
 				<div class="col-md-6 contact-left">
-					<iframe src="https://goo.gl/forms/6GNHn4USBSeWqaTq2" width="100%" height="450"></iframe>
+					<form action="send.php" method="post">
+						<input type="text" placeholder="Nombre" name="nombre" required="">
+						<input type="text" class="email" placeholder="Email" name="email" required="">
+						<input type="text" placeholder="Teléfono" name="phone" required="">
+						<textarea placeholder="Mensaje" name="mensaje" required=""></textarea>
+						<input type="submit" value="Enviar">
+					</form>
 				</div>
 				<div class="col-md-6 contat-right">
 					<div class="map">
